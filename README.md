@@ -28,6 +28,7 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 ### Requisitos: 
 - Node.js instalado
 ### Execução: 
-- git clone https://github.com/MariaMuniz2015/PortifolioDev
+- 1- git clone https://github.com/MariaMuniz2015/PortifolioDev
+- 2- Acesse o diretório do projeto:
 
 
