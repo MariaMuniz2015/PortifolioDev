@@ -45,7 +45,7 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 ###### NEXT_PUBLIC_API_URL=
 ###### NEXT_PUBLIC_CHAT_WEBHOOK=
 - 10- Instale as dependências dos projetos web e backend com o comando npm i em cada uma das pastas.
-- 11- Instale as dependências dos projetos web e backend com o comando npm i em cada uma das pastas
+- 11-Abra as pastas web e backend em dois terminais diferentes e rode o comando npm run dev em cada um dos terminais para executar o projeto.
   ## :smile: Features do projeto: :smile:
   - Exibição de Projetos
   - Integração com Agentes de IA via Chat
