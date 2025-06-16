@@ -54,7 +54,7 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
   - Repositórios GitHub Integrados.
   - Lista de tecnologias dos projetos.
   - Buscar os projetos por Id com as tecnologias associadas.
-
+<img src="./.gitassets/capa.png" />
 
 
 
