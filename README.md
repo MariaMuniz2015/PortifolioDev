@@ -36,7 +36,11 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 - 6- Copie as variáveis de ambiente listadas, crie um arquivo .env na pasta backend e preencha com as seguintes informações:
   
 DATABASE_URL=
+
 DIRECT_URL=
+
 PORT=
+
+
 
 
