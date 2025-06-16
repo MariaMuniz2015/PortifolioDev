@@ -56,9 +56,13 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
   - Buscar os projetos por Id com as tecnologias associadas.
 <img src="./.gitassets/capa.png" />
 :diamonds: Links úteis :diamonds:
+
 - https://nextjs.org/
+
 - https://nestjs.com/
+ 
 - https://supabase.com/
+  
 - https://n8n.io/
 
 
