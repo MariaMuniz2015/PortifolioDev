@@ -9,6 +9,7 @@
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/MariaMuniz2015/PortifolioDev?style=for-the-badge" alt="GitHub issues" />
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </div>
 </div>
 </div>
