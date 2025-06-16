@@ -57,9 +57,9 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 <img src="./.gitassets/capa.png" />
 :diamonds: Links úteis :diamonds:
 - https://nextjs.org/
-- [Next]
-- [Next]
-- [Next]
+- https://nestjs.com/
+- https://supabase.com/
+- https://n8n.io/
 
 
 
