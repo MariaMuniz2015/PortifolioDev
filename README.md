@@ -28,7 +28,7 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 ### Requisitos: 
 - Node.js instalado
 ### Execução: 
-- 1- git clone https://github.com/MariaMuniz2015/PortifolioDev
+- 1- git clone https://github.com/MariaMuniz2015/PortifolioDev//portfolio.git
 - 2- Acesse o diretório do projeto: cd portifolio
 - 3- Acesse sua conta no Supabase ou crie uma nova conta.
 - 4- Navegue até o projeto no Supabase e clique no botão connect.
