@@ -26,7 +26,8 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 
 ## :computer: Como rodar o projeto:computer:
 ### Requisitos: 
-Node.js instalado
+- Node.js instalado
 ### Execução: 
+-git clone https://github.com/
 
 
