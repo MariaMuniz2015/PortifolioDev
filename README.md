@@ -38,6 +38,8 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 ###### DIRECT_URL=
 ###### PORT=
 
+###### Obs: Caso o valor da porta não seja adicionado, a aplicação rodará por padrão na porta 4000
+
 
 
 
