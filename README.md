@@ -18,6 +18,8 @@
    <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </div>
-
 </div>
 </div>
+O PortifolioDev é uma aplicação Full Stack que funciona como uma vitrine expondo todos osprojetos desenvolvidos pelo autor.
+É uma aplicação que abrange tanto o desenvolvimento da interface do usuário (front-end) quanto a lógica do servidor e banco de dados (back-end) em uma única base de código.
+Foi usado as ferramentas mais modernas de desenvolvimento
