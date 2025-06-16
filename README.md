@@ -29,6 +29,10 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 - Node.js instalado
 ### Execução: 
 - 1- git clone https://github.com/MariaMuniz2015/PortifolioDev
-- 2- Acesse o diretório do projeto:
+- 2- Acesse o diretório do projeto: cd portifolio
+- 3- Acesse sua conta no Supabase ou crie uma nova conta.
+- 4- Navegue até o projeto no Supabase e clique no botão connect.
+- 5- Clique em selecionar ORM e selecione o ORM Prisma.
+- 6- Copie as variáveis de ambiente listadas, crie um arquivo .env na pasta backend e preencha com as seguintes informações:
 
 
