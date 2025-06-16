@@ -25,4 +25,8 @@ O PortifolioDev é uma aplicação Full Stack que funciona como uma vitrine expo
 Foi usado as ferramentas mais modernas de desenvolvimento.
 
 ## :computer: Como rodar o projeto:computer:
-### Requisitos: :person_frowning:
+### Requisitos: 
+Node.js instalado
+### Execução: 
+
+
