@@ -42,9 +42,18 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
 - 7- Crie uma conta no site no n8n, e importe o fluxo definido no arquivo assistente-pessoal que está na pasta assets.
 - 8- Após importar o fluxo, clique no primeiro nó, acesse webhooks url, clique em Production URL e copie o valor dessa URL. Obs: Lembre-se de ativar o workflow no n8n.
 - 9- Crie um arquivo .env na pasta web e preencha com as seguintes informações, sendo que a URL da API é a URL do backend e a segunda variável deve ter como valor a URL que extraimos no n8n:
+###### NEXT_PUBLIC_API_URL=
+###### NEXT_PUBLIC_CHAT_WEBHOOK=
 - 10- Instale as dependências dos projetos web e backend com o comando npm i em cada uma das pastas.
 - 11- Instale as dependências dos projetos web e backend com o comando npm i em cada uma das pastas
   ## :smile: Features do projeto: :smile:
+  - Exibição de Projetos
+  - Integração com Agentes de IA via Chat
+  - Repositórios GitHub Integrados.
+  - Lista de tecnologias destacadas.
+  - Repositórios GitHub Integrados.
+  - Lista de tecnologias dos projetos.
+  - Buscar os projetos por Id com as tecnologias associadas.
 
 
 
