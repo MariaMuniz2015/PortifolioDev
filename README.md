@@ -55,6 +55,8 @@ Foi usado as ferramentas mais modernas de desenvolvimento.
   - Lista de tecnologias dos projetos.
   - Buscar os projetos por Id com as tecnologias associadas.
 <img src="./.gitassets/capa.png" />
+:diamonds: Links úteis :diamonds:
+-
 
 
 
